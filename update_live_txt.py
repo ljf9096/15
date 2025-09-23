@@ -12,7 +12,7 @@ RESET = "\033[0m"
 
 live_file = "live.txt"
 
-# ===== 接口地址 =====
+# ===== 接口地址：可修改 =====
 sources = {
      "TXT": "https://gitee.com/sy68/tv/raw/tv/zby",
      "M3U": "https://cdn.jsdelivr.net/gh/xuelong876/kodi@main/yd.m3u"
