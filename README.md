@@ -1,5 +1,1 @@
-## ✨于 2025-09-23 17:47:17 更新
-**🎉最新可用IPTV源，TXT: 120 条，M3U: 266 条，总计: 165 条**
-📺 当前共收录 165 条直播源
-
-# 11
+.github/workflows/update_live_txt.yml名“合并M3U+TXT为live.txt”，运行update_live_txt.py。把多个已经有的txt、m3u直播源（2种格式必须都有）合并成只有央视和卫视的live.txt。
